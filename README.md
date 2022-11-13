@@ -1,26 +1,23 @@
-# LocaCar
- CRUD Flask/MySQL
-Simple CRUD Flask.
+# Django Rest Framework API
+Simple CRUD.
 
 ### Technologies Used:
 
-- Flask
-- MySQL
-- Html
+- Django Rest Framework
+- Postegres
 - Python
-- Bootstrap
-- JavaScript
 
 ### How To Run
 
-Clone the repository in Windows.
-install flask and MySQL-Connector to venv
+Clone the repository.
+Database Postegres
+install Django to venv
 ```
 python -m venv venv
 .\venv\Scripts\Activate.ps1
-pip install django
+pip install -r requirements.txt
 ```
 Execulte the code 
 ```
-flask run
+python manage.py runserver
 ```

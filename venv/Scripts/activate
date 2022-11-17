@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\waarq\Documents\Projetos\DRF_API\venv"
+VIRTUAL_ENV="C:\Users\waarq\Documents\Projetos\django_rest_api\venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
